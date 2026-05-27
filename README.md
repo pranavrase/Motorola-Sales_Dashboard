@@ -6,7 +6,7 @@ This project helps businesses make data-driven decisions through clear and inter
 
 ---
 
-# 🚀 Project Overview
+# 📊 Project Overview
 
 The goal of this project is to convert raw sales data into meaningful insights using Power BI.
 
@@ -38,7 +38,7 @@ The dashboard enables better business decisions through visual analytics.
 # 📂 Dataset Information
 
 ## Source
-Raw Dataset collected from **Kaggle**.
+Raw Dataset collected from **Kaggle**-[Download Dataset](https://github.com/pranavrase/Motorola-Sales_Dashboard/blob/main/Motorola%20Raw%20Data.xlsx).
 
 The dataset contains mobile sales transaction records used to analyze sales performance, customer behavior, and payment trends.
 
@@ -71,6 +71,27 @@ This dataset is used to:
 - Identify city-wise sales distribution
 - Understand customer satisfaction through ratings
 
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
+
+
+
+- **Power BI** → Dashboard creation and data visualization  
+- **Power Query** → Data cleaning and transformation  
+- **DAX (Data Analysis Expressions)** → Calculated measures and KPIs  
+- **Microsoft Excel** → Dataset handling and preprocessing  
+- **Kaggle Dataset** → Data source
 
 ---
 
@@ -155,29 +176,10 @@ Use customer feedback and ratings to:
 Motorola-Sales-Dashboard/
 │
 ├──Dataset/
-│   └── Motorola-Raw-Data.excel
+│   └── Motorola Raw Data.xlsx
 ├── Screenshots/
 │   └── feb-sales.png
 ├── Motorola-Sales.pbix
 └──  README.md
 
-```
 
----
-
-# Conclusion
-
-This Power BI dashboard transforms raw mobile sales data into meaningful business insights.
-
-It helps businesses:
-- Monitor sales performance
-- Understand customer behavior
-- Identify market trends
-- Make smarter business decisions
-
----
-
-
-# ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub and share your feedback.
